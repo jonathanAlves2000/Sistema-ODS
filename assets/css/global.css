@@ -1,0 +1,34 @@
+:root {
+	--color-background: #f1f1f1;
+	--color-headers: #034a97;
+	--color-text: #293c4d;
+    --color-alter-text: #fff;
+    --color-highlight: #f9c74f;
+    --color-highlight-alt: #f3722c;
+}
+
+.da-header {
+    background-color: var(--color-headers);
+    color: var(--color-alter-text);
+}
+
+.da-text-color{
+    color: var(--color-text); 
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main{
+    flex-grow: 1;
+}
+
+.da-footer{
+    color: white;
+    background-color: var(--color-headers);
+    text-align: center;
+    padding: 2em 0 .5em 0;
+}
