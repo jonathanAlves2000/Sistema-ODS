@@ -22,4 +22,4 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/jonathanAlves2000/Sistema-ODS
+   https://github.com/jonathanAlves2000/Sistema-ODS
